@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Progress
+    uniqueID: 2224622207
+    locked: 0
+  - name: Object
+    uniqueID: 1595271697
+    locked: 0
+  - name: Item
+    uniqueID: 477834457
+    locked: 0
+  - name: Scroll
+    uniqueID: 2159134367
+    locked: 0
+  - name: Win
+    uniqueID: 464886473
+    locked: 0

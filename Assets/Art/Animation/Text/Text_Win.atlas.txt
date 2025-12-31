@@ -1,0 +1,35 @@
+Text_Win.png
+size:354,354
+filter:Linear,Linear
+pma:true
+C
+bounds:2,2,94,118
+offsets:1,1,96,120
+rotate:90
+E
+bounds:2,224,102,128
+offsets:1,1,104,130
+E copy
+bounds:2,98,96,124
+offsets:1,1,98,126
+E copy 2
+bounds:100,106,88,116
+offsets:1,1,90,118
+L
+bounds:122,22,82,116
+offsets:1,1,84,118
+rotate:90
+L copy
+bounds:240,30,81,116
+offsets:1,1,83,118
+N
+bounds:215,247,105,117
+offsets:1,1,107,119
+rotate:90
+T
+bounds:215,148,97,117
+offsets:1,1,99,119
+rotate:90
+X
+bounds:106,236,107,116
+offsets:1,1,109,118

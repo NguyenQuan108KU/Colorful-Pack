@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Luna / Playworks
+LunaTemp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
